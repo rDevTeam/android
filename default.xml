@@ -162,8 +162,8 @@
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="Evervolv/android_external_webrtc" remote="gh" revision="ics"/>
   <project path="external/wpa_supplicant" name="platform/external/wpa_supplicant"  />
-  <project path="external/wpa_supplicant_6" name="Evervolv/external_wpa_supplicant_6" remote="gh" revision="ics" />
-  <project path="external/wpa_supplicant_8" name="Evervolv/external_wpa_supplicant_8" remote="gh" revision="ics" />
+  <project path="external/wpa_supplicant_6" name="Evervolv/android_external_wpa_supplicant_6" remote="gh" revision="ics" />
+  <project path="external/wpa_supplicant_8" name="Evervolv/android_external_wpa_supplicant_8" remote="gh" revision="ics" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="AOKP/external_yaffs2" remote="gh" revision="ics" />
   <project path="external/zlib" name="AOKP/external_zlib" remote="gh" revision="ics" />
