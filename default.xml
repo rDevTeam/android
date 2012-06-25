@@ -8,10 +8,10 @@
            fetch="https://github.com/"
            review="gerrit.aokp.co"
            revision="ics" />
-
+	  
   <remote  name="cm"
-           fetch="https://github.com/CyanogenMod/"
-           revision="ics" />
+           fetch="https://github.com/"
+           revision="master" />
 
   <default remote="aosp"
 	   revision="refs/tags/android-4.0.4_r2.1"
@@ -187,7 +187,7 @@
   <project path="hardware/libhardware" name="Evervolv/android_hardware_libhardware" remote="gh" revision="ics" />
   <project path="hardware/libhardware_legacy" name="Evervolv/android_hardware_libhardware_legacy" remote="gh" revision="ics" />
   <project path="hardware/qcom/display" name="Evervolv/android_hardware_qcom_display" remote="gh" revision="ics" />
-  <project path="hardware/qcom/camera" name="cmhtcleo/android_hardware_qcom_camerahal" remote="gh" revision="master" />
+  <project path="hardware/qcom/camera" name="cmhtcleo/android_hardware_qcom_camerahal" remote="cm" revision="master" />
   <project path="hardware/msm7k" name="Evervolv/android_hardware_msm7k" remote="gh" revision="ics" />
   <project path="hardware/qcom/gps" name="Evervolv/hardware_qcom_gps" remote="gh" revision="ics" />
   <project path="hardware/qcom/media" name="Evervolv/android_hardware_qcom_media" remote="gh" revision="ics" />
