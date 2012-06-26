@@ -6,12 +6,11 @@
 
   <remote  name="gh"
            fetch="https://github.com/"
-           review="gerrit.aokp.co"
-           revision="ics" />
+	   />
 	  
   <remote  name="cm"
            fetch="https://github.com/"
-           revision="master" />
+           />
 
   <default remote="aosp"
 	   revision="refs/tags/android-4.0.4_r2.1"
