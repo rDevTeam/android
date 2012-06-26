@@ -237,7 +237,7 @@
   <project path="packages/inputmethods/LatinIME" name="AOKP/packages_input_LatinIME" remote="gh" revision="ics" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" />
-  <<project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
+  <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="AOKP/packages_providers_ContactsProvider" revision="ics" remote="gh" />
   <project path="packages/providers/DownloadProvider" name="AOKP/packages_providers_DownloadProvider" revision="ics" remote="gh" />
