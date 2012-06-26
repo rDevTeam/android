@@ -281,14 +281,9 @@
   <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="Evervolv/android_vendor_qcom_opensource_kernel-tests_mm-audio" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="Evervolv/android_vendor_qcom_opensource_omx_mm-core" remote="gh" revision="ics" />
   <project path="vendor/qcom/opensource/omx/mm-video" name="Evervolv/android_vendor_qcom_opensource_omx_mm-video" remote="gh" revision="ics" />
-  <project path="vendor/qcom/opensource/v8" name="Evervolv/android_vendor_qcom_opensource_v8" remote="gh" revision="ics"/>
+  <project path="vendor/qcom/opensource/v8" name="Evervolv/android_vendor_qcom_opensource_v8" remote="gh" revision="ics" />
   
   
-  
-  <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" revision="refs/heads/ics" remote="gh" />
-  <project name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" revision="refs/heads/ics" remote="gh" />
-  <project name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" revision="refs/heads/ics" remote="gh" />
-  <project name="CyanogenMod/android_vendor_tmobile_products_themes" path="vendor/tmobile/products/themes" revision="refs/heads/ics" remote="gh" />
 
   <project path="android" name="Karting06/android" remote="gh" revision="ics" />
 
