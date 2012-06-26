@@ -5,10 +5,13 @@
            fetch="https://android.googlesource.com/" />
 
   <remote  name="gh"
-           fetch="https://github.com/" />
-	  
+           fetch="https://github.com/"
+	   review="gerrit.aokp.co"
+	   revision="ics" />
+  
   <remote  name="cm"
-           fetch="https://github.com/" />
+           fetch="https://github.com/" 
+	   revision="master" />
 
   <default remote="aosp"
 	   revision="refs/tags/android-4.0.4_r2.1"
@@ -276,6 +279,6 @@
   <project path="vendor/qcom/opensource/omx/mm-video" name="Evervolv/android_vendor_qcom_opensource_omx_mm-video" remote="gh" revision="ics"/>
   <project path="vendor/qcom/opensource/v8" name="Evervolv/android_vendor_qcom_opensource_v8" remote="gh" revision="ics"/>
   
-  <project path="android" name="Karting06/android" remote="gh" revision="ics"/>
+  <project path="android" name="Karting06/android" remote="gh" revision="ics" />
 
- </manifest>
+</manifest>
