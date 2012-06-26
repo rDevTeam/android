@@ -27,7 +27,7 @@
   <project path="device/common" name="device/common"/>
   <project path="device/htc/bravo" name="Evervolv/android_device_htc_bravo" remote="gh" revision="ics"/>
   <project path="device/htc/leo" name="cmhtcleo/android_device_htc_leo" remote="gh" revision="ics"/>
-  <project path="device/htc/common" name="ics-passion-dev/android_device_htc_common" remote="gh" revision="ics-starter" >
+  <project path="device/htc/common" name="ics-passion-dev/android_device_htc_common" remote="gh" revision="ics-starter"/>
   <project path="docs/source.android.com" name="platform/docs/source.android.com"/>
   <project path="external/android-mock" name="platform/external/android-mock"/>
   <project path="external/antlr" name="platform/external/antlr"/>
@@ -275,5 +275,7 @@
   <project path="vendor/qcom/opensource/omx/mm-core" name="Evervolv/android_vendor_qcom_opensource_omx_mm-core" remote="gh" revision="ics"/>
   <project path="vendor/qcom/opensource/omx/mm-video" name="Evervolv/android_vendor_qcom_opensource_omx_mm-video" remote="gh" revision="ics"/>
   <project path="vendor/qcom/opensource/v8" name="Evervolv/android_vendor_qcom_opensource_v8" remote="gh" revision="ics"/>
-  <project path="android" name="Karting06/android" remote="gh" revision="ics" />
-</manifest>
+  
+  <project path="android" name="Karting06/android" remote="gh" revision="ics"/>
+
+ </manifest>
