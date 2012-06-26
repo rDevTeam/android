@@ -145,7 +145,7 @@
   <project path="external/tremolo" name="AOKP/external_tremolo" remote="gh" revision="ics" />
   <project path="external/v8" name="CyanogenMod/android_external_v8" remote="gh" revision="ics"/>
   <project path="external/valgrind" name="platform/external/valgrind"/>
-  <project path="external/webkit" name="Evervolv/android_external_webkit" remote="gh" revision="ics" />
+  <project path="external/webkit" name="CyanogenMod/android_external_webkit" remote="gh" revision="ics" />
   <project path="external/webp" name="platform/external/webp"/>
   <project path="external/webrtc" name="Evervolv/android_external_webrtc" remote="gh" revision="ics"/>
   <project path="external/wpa_supplicant" name="platform/external/wpa_supplicant" />
