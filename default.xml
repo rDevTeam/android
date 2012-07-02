@@ -183,7 +183,7 @@
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3"/>
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx"/>
   <project path="hardware/ti/wlan" name="Evervolv/android_hardware_ti_wlan" remote="gh" revision="ics" />
-  <project path="kernel/htc/leo" name="rDevTeam/android_kernel_rDevTeam" remote="gh" revision="ics" />
+  <project path="kernel/htc/leo" name="rDevTeam/android_kernel_rdevteam" remote="gh" revision="ics" />
   <project path="libcore" name="AOKP/libcore" remote="gh" revision="ics" />
   <project path="ndk" name="platform/ndk"/>
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver"/>
