@@ -212,7 +212,7 @@
   <project path="packages/apps/AOKPtips" name="AOKP/packages_apps_AOKPtips" remote="gh" revision="ics"/>
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision"/>
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox"/>
-  <project path="packages/apps/Settings" name="rDevTeam/packages_apps_settings" remote="gh" revision="ics" />
+  <project path="packages/apps/Settings" name="rDevTeam/android_packages_apps_settings" remote="gh" revision="ics" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder"/>
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts"/>
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder"/>
