@@ -17,7 +17,7 @@
 	   revision="refs/tags/android-4.0.4_r2.1"
            sync-j="4" />
 
-  <project path="build" name="AOKP/android_build" revision="ics" remote="gh">
+  <project path="build" name="rDevTeam/android_build" revision="ics" remote="gh">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="abi/cpp" name="platform/abi/cpp" />
@@ -212,7 +212,7 @@
   <project path="packages/apps/AOKPtips" name="AOKP/packages_apps_AOKPtips" remote="gh" revision="ics"/>
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision"/>
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox"/>
-  <project path="packages/apps/Settings" name="AOKP/packages_apps_Settings" remote="gh" revision="ics" />
+  <project path="packages/apps/Settings" name="rDevTeam/packages_apps_settings" remote="gh" revision="ics" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder"/>
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts"/>
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder"/>
