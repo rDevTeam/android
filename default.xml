@@ -217,7 +217,7 @@
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/zxing" name="platform/external/zxing" />
-  <project path="frameworks/av" name="platform/frameworks/av/">
+  <project path="frameworks/av" name="platform/frameworks/av/"/>
   <project path="frameworks/base" name="platform/frameworks/base"/>
   <project path="frameworks/native" name="platform/frameworks/native"/>
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
