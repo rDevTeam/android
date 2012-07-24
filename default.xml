@@ -37,7 +37,6 @@
   <project path="external/nano" name="android_external_nano" remote="ev" revision="jellybean"/>
   <project path="external/rsync" name="android_external_rsync" remote="ev" revision="jellybean"/>  
   <project path="external/skia" name="android_external_skia" remote="ev" revision="jellybean"/>
-  <project path="external/su" name="android_external_su" remote="ev" revision="jellybean"/>
   <project path="external/vim" name="android_external_vim" remote="ev" revision="jellybean"/>
   <project path="external/webkit" name="android_external_webkit" remote="ev" revision="jellybean"/>
   <project path="external/webrtc" name="android_external_webrtc" remote="ev" revision="jellybean"/>
