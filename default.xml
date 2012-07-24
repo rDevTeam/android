@@ -17,7 +17,7 @@
 	   revision="refs/tags/android-4.1.1_r3"
            sync-j="4" />
 
-  <project path="build" name="platfomr/build">
+  <project path="build" name="platform/build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <!-- Evervolv files -->
