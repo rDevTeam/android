@@ -21,56 +21,56 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <!-- Evervolv files -->
-  <project path="dalvik" name="android_dalvik" remote="ev"/>
-  <project path="device/htc/common" name="android_device_htc_common" remote="ev"/>
-  <project path="external/bluetooth/bluez" name="android_external_bluetooth_bluez" remote="ev"/>
-  <project path="external/compat-wireless-3.5-rc3-1-sn" name="android_external_compat-wireless-3.5-rc3-1-sn" remote="ev" />
-  <project path="external/bash" name="android_external_bash" remote="ev" />
-  <project path="external/busybox" name="android_external_busybox" remote="ev" />
-  <project path="external/dropbear" name="android_external_dropbear" remote="ev"/>
-  <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="ev"/>
-  <project path="external/freetype" name="android_external_freetype" remote="ev"/>
-  <project path="external/fsck_msdos" name="android_external_fsck_msdos" remote="ev"/>
-  <project path="external/guava" name="android_external_guava" remote="ev"/>
-  <project path="external/htop" name="android_external_htop" remote="ev" />
-  <project path="external/libncurses" name="android_external_libncurses" remote="ev" />
-  <project path="external/nano" name="android_external_nano" remote="ev" />
-  <project path="external/rsync" name="android_external_rsync" remote="ev" />  
-  <project path="external/skia" name="android_external_skia" remote="ev"/>
-  <project path="external/su" name="android_external_su" remote="ev" />
-  <project path="external/vim" name="android_external_vim" remote="ev" />
-  <project path="external/webkit" name="android_external_webkit" remote="ev"/>
-  <project path="external/webrtc" name="android_external_webrtc" remote="ev"/>
-  <project path="external/wpa_supplicant_6" name="android_external_wpa_supplicant_6" remote="ev"/>
-  <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="ev"/>
-  <project path="external/yaffs2" name="android_external_yaffs2" remote="ev"/>
-  <project path="external/zlib" name="android_external_zlib" remote="ev"/>
-  <project path="hardware/atheros" name="android_hardware_atheros" remote="ev" />
-  <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="ev"/>
-  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="ev"/>
-  <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="ev"/>
-  <project path="hardware/msm7k" name="android_hardware_msm7k" remote="ev"/>
-  <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="ev"/>
-  <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" remote="ev" />
-  <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="ev" />
-  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="ev"/>
-  <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="ev"/>
-  <project path="hardware/ril" name="android_hardware_ril" remote="ev"/>
-  <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="ev"/>
-  <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="ev"/>
-  <project path="libcore" name="android_libcore" remote="ev"/>
-  <project path="packages/apps/AndroidTerm" name="android_packages_apps_AndroidTerm" remote="ev"/>  
-  <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="ev" />
-  <project path="packages/apps/Superuser" name="android_packages_apps_Superuser" remote="ev"/>
-  <project path="vendor/htc" name="android_vendor_htc" remote="ev"/>
+  <project path="dalvik" name="android_dalvik" remote="ev" revision="jellybean"/>
+  <project path="device/htc/common" name="android_device_htc_common" remote="ev" revision="jellybean"/>
+  <project path="external/bluetooth/bluez" name="android_external_bluetooth_bluez" remote="ev" revision="jellybean"/>
+  <project path="external/compat-wireless-3.5-rc3-1-sn" name="android_external_compat-wireless-3.5-rc3-1-sn" remote="ev" revision="jellybean" />
+  <project path="external/bash" name="android_external_bash" remote="ev" revision="jellybean" />
+  <project path="external/busybox" name="android_external_busybox" remote="ev" revision="jellybean"/>
+  <project path="external/dropbear" name="android_external_dropbear" remote="ev" revision="jellybean"/>
+  <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="ev" revision="jellybean"/>
+  <project path="external/freetype" name="android_external_freetype" remote="ev" revision="jellybean"/>
+  <project path="external/fsck_msdos" name="android_external_fsck_msdos" remote="ev" revision="jellybean"/>
+  <project path="external/guava" name="android_external_guava" remote="ev" revision="jellybean"/>
+  <project path="external/htop" name="android_external_htop" remote="ev" revision="jellybean"/>
+  <project path="external/libncurses" name="android_external_libncurses" remote="ev" revision="jellybean"/>
+  <project path="external/nano" name="android_external_nano" remote="ev" revision="jellybean"/>
+  <project path="external/rsync" name="android_external_rsync" remote="ev" revision="jellybean"/>  
+  <project path="external/skia" name="android_external_skia" remote="ev"revision="jellybean"/>
+  <project path="external/su" name="android_external_su" remote="ev" revision="jellybean"/>
+  <project path="external/vim" name="android_external_vim" remote="ev" revision="jellybean"/>
+  <project path="external/webkit" name="android_external_webkit" remote="ev" revision="jellybean"/>
+  <project path="external/webrtc" name="android_external_webrtc" remote="ev" revision="jellybean"/>
+  <project path="external/wpa_supplicant_6" name="android_external_wpa_supplicant_6" remote="ev" revision="jellybean"/>
+  <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="ev" revision="jellybean"/>
+  <project path="external/yaffs2" name="android_external_yaffs2" remote="ev" revision="jellybean"/>
+  <project path="external/zlib" name="android_external_zlib" remote="ev" revision="jellybean"/>
+  <project path="hardware/atheros" name="android_hardware_atheros" remote="ev" revision="jellybean"/>
+  <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="ev" revision="jellybean"/>
+  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="ev" revision="jellybean"/>
+  <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="ev" revision="jellybean"/>
+  <project path="hardware/msm7k" name="android_hardware_msm7k" remote="ev" revision="jellybean"/>
+  <project path="hardware/qcom/audio" name="android_hardware_qcom_audio" remote="ev" revision="jellybean"/>
+  <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" remote="ev" revision="jellybean"/>
+  <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="ev" revision="jellybean"/>
+  <project path="hardware/qcom/gps" name="android_hardware_qcom_gps" remote="ev" revision="jellybean"/>
+  <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="ev" revision="jellybean"/>
+  <project path="hardware/ril" name="android_hardware_ril" remote="ev" revision="jellybean"/>
+  <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="ev" revision="jellybean"/>
+  <project path="hardware/ti/wpan" name="android_hardware_ti_wpan" remote="ev" revision="jellybean"/>
+  <project path="libcore" name="android_libcore" remote="ev" revision="jellybean"/>
+  <project path="packages/apps/AndroidTerm" name="android_packages_apps_AndroidTerm" remote="ev" revision="jellybean"/>  
+  <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="ev" revision="jellybean"/>
+  <project path="packages/apps/Superuser" name="android_packages_apps_Superuser" remote="ev" revision="jellybean"/>
+  <project path="vendor/htc" name="android_vendor_htc" remote="ev" revision="jellybean" />
   
   <!-- rDevTeam files -->
-  <project path="device/htc/leo" name="android_device_htc_leo" remote="rdt"/>
-  <project path="kernel/htc/leo" name="android_kernel_rdevteam" remote="rdt"/>
+  <project path="device/htc/leo" name="android_device_htc_leo" remote="rdt" revision="jellybean"/>
+  <project path="kernel/htc/leo" name="android_kernel_rdevteam" remote="rdt" revision="jellybean"/>
   <project path="packages/apps/Settings" name="platform/packages/apps/Settings"/>
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME"/>
-  <project path="vendor/htc/leo" name="android_vendor_htc_leo" remote="rdt"/>
-  
+  <project path="vendor/htc/leo" name="android_vendor_htc_leo" remote="rdt" revision="jellybean"/>
+  <project path="vendor/rdt" name="android_vendor_rdt" remote="rdt" revision="jellybean"/>
   <!-- AOSP files -->
   <project path="abi/cpp" name="platform/abi/cpp" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
