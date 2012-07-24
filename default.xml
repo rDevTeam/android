@@ -22,7 +22,7 @@
   </project>
   <!-- Evervolv files -->
   <project path="dalvik" name="android_dalvik" remote="ev" revision="jellybean"/>
-  <project path="device/htc/common" name="android_device_htc_common" remote="ev" revision="jellybean"/>
+  <project path="device/htc/common" name="android_device_htc_common" remote="ev" revision="ics"/>
   <project path="external/bluetooth/bluez" name="android_external_bluetooth_bluez" remote="ev" revision="jellybean"/>
   <project path="external/compat-wireless-3.5-rc3-1-sn" name="android_external_compat-wireless-3.5-rc3-1-sn" remote="ev" revision="jellybean" />
   <project path="external/bash" name="android_external_bash" remote="ev" revision="jellybean" />
